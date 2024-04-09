@@ -1,0 +1,18 @@
+.about-section {
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+}
+
+p{
+    font-size: 16px;
+}
